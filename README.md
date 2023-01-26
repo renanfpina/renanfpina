@@ -16,9 +16,7 @@
 [https://renanpina.com.br](https://renanpina.com.br)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Abreviações em inglês mais utilizadas nas empresas de TI](https://renanpina.com.br/abreviacoes-em-ingles-mais-utilizadas-nas-empresas-de-ti/)
+- [Qual é o editor de códigos mais acessível?](https://renanpina.com.br/qual-e-o-editor-de-codigos-mais-acessivel/)
+- [Para que serve o Git?](https://renanpina.com.br/para-que-serve-o-git/)
 <!-- BLOG-POST-LIST:END -->
