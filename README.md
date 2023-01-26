@@ -10,7 +10,9 @@
 * 👨‍🦯 I'm a blind full stack developer and bachelor in Information Sistems.
 * ♿ Focused on making applications more accessible.
 * 🎸 Bass player in the free time. 🤟 
-* 📝 See more:
+
+
+## 📝 See more:
 [https://renanpina.com.br](https://renanpina.com.br)
 
 <!-- BLOG-POST-LIST:START -->
