@@ -16,6 +16,7 @@
 [https://renanpina.com.br](https://renanpina.com.br)
 
 <!-- BLOG-POST-LIST:START -->
+- [Veja a vida com outros olhos](https://renanpina.com.br/vejaavidacomoutrosolhos/)
 - [Abreviações em inglês mais utilizadas nas empresas de TI](https://renanpina.com.br/abreviacoes-em-ingles-mais-utilizadas-nas-empresas-de-ti/)
 - [Qual é o editor de códigos mais acessível?](https://renanpina.com.br/qual-e-o-editor-de-codigos-mais-acessivel/)
 - [Para que serve o Git?](https://renanpina.com.br/para-que-serve-o-git/)
